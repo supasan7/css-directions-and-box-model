@@ -1,1 +1,28 @@
 /* Start coding here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color:lightslategrey;
+  padding: 20px;
+}
+
+.header h2 {
+  color:rgb(23, 37, 52);
+}
+
+.container {
+  border: 2px solid black;
+  width: 40vw;
+  height: 100%;
+  margin: 30px;
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+.container img {
+  margin-block: 5px;
+}
