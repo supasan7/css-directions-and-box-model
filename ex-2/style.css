@@ -1,1 +1,35 @@
 /* Start coding here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.lightgrey {
+  height: 100vh;
+  background-color: lightgrey;
+  padding: 16px;
+}
+
+.black {
+  height: 100%;
+  background-color: black;
+  padding: 16px;
+}
+
+.crimson {
+  height: 100%;
+  background-color: crimson;
+  padding: 24px;
+}
+
+.khaki {
+  height: 100%;
+  background-color: khaki;
+  padding: 30px;
+}
+
+.khaki p{
+  font-size: 72px;
+}
+
